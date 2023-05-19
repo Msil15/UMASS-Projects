@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "EAS 502 2.9", "EAS 502 2.9\EAS 502 2.9.pyproj", "{9876D1B3-2679-4B87-935F-1781C99731A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9876D1B3-2679-4B87-935F-1781C99731A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9876D1B3-2679-4B87-935F-1781C99731A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DC7AB21-656F-4C89-AF0D-9CE4FBF2E235}
+	EndGlobalSection
+EndGlobal
